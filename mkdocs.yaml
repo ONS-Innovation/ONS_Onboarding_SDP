@@ -1,0 +1,15 @@
+site_name: "ONS_Onboarding"
+site_description: "Onboarding information for ONS employees"
+
+nav:
+  - Home: index.md
+  - 'User Guide':
+    - 'Section A': 'lorem.md'
+    - 'Section B': 'lorem.md'
+  - About:
+    - 'License': 'lorem.md'
+    - 'Release Notes': 'lorem.md'
+
+plugins:
+  - techdocs-core
+  
