@@ -1,4 +1,3 @@
-# Home
-Here's an example of what TechDocs look like! It makes use of `mkdocs`, which is a static site generator that takes Markdown for formatting and YAML for structure.
+# Welcome to ONS Onboarding Documentation
 
-Does a link like [this](lorem.md) work?
+Welcome to the Office for National Statistics (ONS) Onboarding Documentation! This guide is designed to help new employees get up to speed quickly and efficiently with the processes, tools, and resources used at ONS.
