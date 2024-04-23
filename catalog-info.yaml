@@ -6,8 +6,8 @@ metadata:
   annotations:
     github.com/project-slug: backstage-dummy-org/ONS_Onboarding
     backstage.io/techdocs-ref: dir:.
-  Tags:
-  - onboarding
+  tags:
+    - onboarding
 spec:
   type: service
   lifecycle: experimental
