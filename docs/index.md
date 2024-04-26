@@ -34,3 +34,14 @@ We require all new starters to take part in mandatory training, which covers Hea
 We will invite you to a one-day corporate induction event which will give you an overview of the organisation’s values and strategy. You will join other new starters, giving you opportunities to meet colleagues and build networks across the organisation. It is important you try to attend this event.
 
 Your business area will give you a more detailed induction so you can learn more about your role and meet your colleagues. They will be there to guide you throughout your career with us in the ONS. 
+
+# Mission and Vision
+
+High quality data and analysis to inform the UK, improve lives and build the future.
+
+Official statistics are for the benefit of society and the economy generally. They:
+
+* allow the formulation of better public policy and the effective measurement of those policies
+* inform the direction of economic and commercial activities
+* provide valuable information for analysts, researchers, public and voluntary bodies
+* enable the public to hold to account all organisations that spend public money, thus informing democratic debate
