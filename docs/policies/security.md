@@ -30,7 +30,9 @@ If you have a general query related to ONS IT Security:
 * Select the eighth category from the Service Catalog, ‘Security Systems & Premises’, on the left of the screen
 * Select the Security option, with the sub-heading of ‘Security Permissions – USB, Downloads, Active Contents, General’, as shown in the adjacent image:
 * Choose the IA General Request option from the drop-down menu on the Security form:
-  ![Screenshot of drop-down menu from Service Now Security Form](https://intranet.ons.statistics.gov.uk/wp-content/uploads/2022/06/Screenshot-of-drop-down-menu-from-Service-Now-Security-Form.png)
+
+![Screenshot of drop-down menu from Service Now Security Form](https://intranet.ons.statistics.gov.uk/wp-content/uploads/2022/06/Screenshot-of-drop-down-menu-from-Service-Now-Security-Form.png)
+
 * Complete the form with your query and raise your Request
   
 ## Reporting an IT Security issue
