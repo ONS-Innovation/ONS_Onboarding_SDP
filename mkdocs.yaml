@@ -8,16 +8,12 @@ nav:
     - Code of Conduct: policies/code_of_conduct.md
     - Security Policies: policies/security.md
     - Data Protection Guidelines: policies/data_protection.md
-  - Introduction to ONS:
-    - Mission and Vision: introduction/mission_vision.md
-    - Organizational Structure: introduction/structure.md
-    - Key Departments and Teams: introduction/departments.md
   - Tools and Resources:
-    - Email and Communication Tools: tools/email.md
     - Project Management Tools: tools/project_management.md
     - Document Collaboration: tools/document_collaboration.md
+    - Source Control: tools/source-control.md
+    - Training Tools: tools/training-tools.md
   - Training and Development:
-    - Onboarding Sessions: training/onboarding_sessions.md
     - Mandatory Training Modules: training/mandatory_training.md
     - Career Development Resources: training/career_development.md
   - FAQs: faqs.md
