@@ -5,6 +5,17 @@ You join a team of more than 5,000 colleagues who work flexibly across our sites
 
 We’ve designed this welcome pack to provide you with information you might find helpful before joining the office and in your first few days, but it is a useful reminder for anyone at any stage in their career with us.
 
+## Mission and Vision
+
+High quality data and analysis to inform the UK, improve lives and build the future.
+
+Official statistics are for the benefit of society and the economy generally. They:
+
+* allow the formulation of better public policy and the effective measurement of those policies
+* inform the direction of economic and commercial activities
+* provide valuable information for analysts, researchers, public and voluntary bodies
+* enable the public to hold to account all organisations that spend public money, thus informing democratic debate
+
 ## Your first day, at home
 
 ### Equipment
@@ -35,13 +46,4 @@ We will invite you to a one-day corporate induction event which will give you an
 
 Your business area will give you a more detailed induction so you can learn more about your role and meet your colleagues. They will be there to guide you throughout your career with us in the ONS. 
 
-# Mission and Vision
 
-High quality data and analysis to inform the UK, improve lives and build the future.
-
-Official statistics are for the benefit of society and the economy generally. They:
-
-* allow the formulation of better public policy and the effective measurement of those policies
-* inform the direction of economic and commercial activities
-* provide valuable information for analysts, researchers, public and voluntary bodies
-* enable the public to hold to account all organisations that spend public money, thus informing democratic debate
