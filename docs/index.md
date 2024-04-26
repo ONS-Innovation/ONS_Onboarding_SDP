@@ -46,4 +46,6 @@ We will invite you to a one-day corporate induction event which will give you an
 
 Your business area will give you a more detailed induction so you can learn more about your role and meet your colleagues. They will be there to guide you throughout your career with us in the ONS. 
 
-
+### Useful links
+* [People Portal](https://intranet.ons.statistics.gov.uk/task/a-people-portal/) - Useful guides on different areas such as pay, attendance, learning and development and other.
+ 
